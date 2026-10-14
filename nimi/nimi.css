@@ -14,7 +14,7 @@ a:active{color:#233D4D; text-decoration: wavy;}
 a:visited{color:#BB7E8C}
 #imagecredits{font-family:Verdana, Geneva, Tahoma, sans-serif; font-size:x-small; font-style: italic;}
 a:visited.header{color:aliceblue; text-decoration: none}
-a:before.header{color:aliceblue; text-decoration:none}
+a.header{color:aliceblue; text-decoration:none}
 li{font-family:Verdana, Geneva, Tahoma, sans-serif}
 table{text-align:center; align-content:center; margin-left: auto; margin-right: auto;}
 table.likes{font-family:Verdana, Geneva, Tahoma, sans-serif; 
