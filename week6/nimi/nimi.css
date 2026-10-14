@@ -1,0 +1,24 @@
+body{background-color:#EFF6FB; color:black; align-content:center; text-align:center;}
+header{color:aliceblue; background-color:#233D4D;
+    padding-bottom:20px; padding-top:10px; 
+    padding-left:20px;
+    margin-top: 0px; margin-bottom:10px;
+    border-bottom-color:aliceblue; border-bottom-width:5px; border-bottom-style:groove;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; font-size:xx-large; text-align:left; text-decoration:none}
+footer{color:aliceblue; background-color: #233D4D; border-top-color:aliceblue; border-top-width:5px; border-top-style:groove; padding-top:10px; padding-bottom:10px; margin-top:30px}
+p#footer{color:aliceblue;font-family:Verdana, Geneva, Tahoma, sans-serif}
+.text{color:#233D4D; margin-left:50px; margin-right:50px; text-decoration:wavy; font-family:Verdana, Geneva, Tahoma, sans-serif}
+p{color:black; margin-left:50px; margin-right:50px; font-family:Verdana, Geneva, Tahoma, sans-serif;}
+a{color:#233D4D}
+a:active{color:#233D4D; text-decoration: wavy;}
+a:visited{color:#BB7E8C}
+#imagecredits{font-family:Verdana, Geneva, Tahoma, sans-serif; font-size:x-small; font-style: italic;}
+a:visited.header{color:aliceblue; text-decoration: none}
+li{font-family:Verdana, Geneva, Tahoma, sans-serif}
+table{text-align:center; align-content:center; margin-left: auto; margin-right: auto;}
+table.likes{font-family:Verdana, Geneva, Tahoma, sans-serif; 
+            border-width:5px; border-style:dotted; border-color:#7D8570; text-align:left; border-collapse:collapse;
+            margin-left: auto; margin-right: auto;}
+img{max-width:100%; object-fit:contain}
+
+    
