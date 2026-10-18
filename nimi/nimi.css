@@ -52,4 +52,5 @@ div.fampic{display:flex; flex-wrap: nowrap; height: 10%; max-width:100%; margin:
      nav{font-size:small}
      h2{margin-top:15%}
      #headpic{height:28px}
+    #header{padding-left:0px}
     }
